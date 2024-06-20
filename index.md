@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Experimenta Teleco
 layout: home
 ---
 
