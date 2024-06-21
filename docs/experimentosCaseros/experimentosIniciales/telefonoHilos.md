@@ -1,8 +1,9 @@
 ---
-layout: minimal
+layout: default
 title: Telefono de Vasos con Hilos
 parent: Experimentos Iniciales
 grand_parent: Experimentos Caseros
+nav_order: 1
 ---
 
 # Telefono de vasos con hilos
