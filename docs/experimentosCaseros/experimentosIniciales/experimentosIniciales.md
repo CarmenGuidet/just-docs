@@ -2,7 +2,7 @@
 layout: default
 title: Experimentos Iniciales
 parent: Experimentos Caseros
-has_child: true
+has_children: true
 nav_order: 1
 ---
 
