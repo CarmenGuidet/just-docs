@@ -2,7 +2,7 @@
 layout: default
 title: Espectrocopio Casero
 parent: Experimentos Iniciales
-nav_order: 1
+nav_order: 2
 ---
 
 # TÍTULO DEL EXPERIMENTO
