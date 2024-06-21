@@ -2,7 +2,7 @@
 layout: default
 title: Telefono de Vasos con Hilos
 parent: Experimentos Iniciales
-nav_order: 2
+nav_order: 1
 ---
 
 # Telefono de vasos con hilos
