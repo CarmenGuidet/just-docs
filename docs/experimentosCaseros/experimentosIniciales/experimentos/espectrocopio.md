@@ -2,7 +2,6 @@
 layout: default
 title: Espectrocopio Casero
 parent: Experimentos Iniciales
-has_child: true
 nav_order: 1
 ---
 
