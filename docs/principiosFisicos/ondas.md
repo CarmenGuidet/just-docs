@@ -45,3 +45,6 @@ La velocidad a la que la onda se desplaza a través del medio. La relación entr
 - **Ondas en el agua:** Cuando tiramos una piedra en un estanque, se crean ondas que se propagan por la superficie del agua.
 
 Las ondas son fundamentales en la física y en muchas aplicaciones tecnológicas, desde la comunicación hasta la medicina.
+
+
+[![Ondas y clasificación](https://img.youtube.com/vi/Z7fV4ZfoKeY/mqdefault.jpg)](https://www.youtube.com/watch?v=Z7fV4ZfoKeY)
