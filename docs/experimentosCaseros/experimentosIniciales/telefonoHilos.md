@@ -33,7 +33,7 @@ De 6 a 10 años
 - Tijeras
 
 ### Principios fisicos
-- Enlaces a los principios fisicos relacionados con el experimento
+- [¿Qué es una onda?]({% link docs/principiosFisicos/ondas.md %})
 
 ## Instrucciones
 ### Pasos 
