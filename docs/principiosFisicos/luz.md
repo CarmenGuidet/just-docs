@@ -19,7 +19,7 @@ La longitud de onda es la distancia entre dos crestas consecutivas de la onda. L
 La frecuencia es el número de ondas que pasan por un punto en un segundo. Está inversamente relacionada con la longitud de onda: a mayor longitud de onda, menor frecuencia, y viceversa.
 
 ### Velocidad de la Luz (c)
-La velocidad de la luz en el vacío es aproximadamente \(299,792,458 \, \text{m/s}\). En otros medios, como el agua o el vidrio, la velocidad de la luz es menor debido a la refracción.
+La velocidad de la luz en el vacío es aproximadamente $299.792.458 \, \text{m/s}$. En otros medios, como el agua o el vidrio, la velocidad de la luz es menor debido a la refracción.
 
 ### Energía
 La energía de un fotón de luz está relacionada con su frecuencia mediante la ecuación:
@@ -36,7 +36,9 @@ La luz visible es solo una pequeña parte del espectro electromagnético, que in
 - **Ultravioleta (UV):** Causa quemaduras solares, se usa en lámparas germicidas.
 - **Infrarrojo (IR):** Percibido como calor.
 - **Microondas:** Utilizadas en comunicaciones y hornos microondas.
-- **Ondas de Radio:** Utilizadas en radiocomunicaciones.
+- **Ondas de Radio:** Utilizadas en las telecomunicaciones.
+
+![](/assets/images/fundamentosFisicos/Electromagnetic_spectrum_(es).png)
 
 ## Comportamiento de la luz
 
