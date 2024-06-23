@@ -31,6 +31,7 @@ De 6 a 10 años
 
 ### Principios fisicos
 - [¿Qué es una onda?]({% link docs/principiosFisicos/ondas.md %})
+
 - [¿Qué es el sonido?]({% link docs/principiosFisicos/sonido.md %})
 
 ## Instrucciones
