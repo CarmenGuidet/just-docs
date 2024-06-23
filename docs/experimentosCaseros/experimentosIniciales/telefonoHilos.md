@@ -41,7 +41,6 @@ De 6 a 10 años
 2. Pasa el hilo a través del agujero de cada vaso.
 3. Ata un nudo en el principio de los hilos para que el hilo no se salga de ls vasos.
 ![Paso 2 y 3: Teléfono de vasos de hilo.](/assets/images/experimentosIniciales/telefonoVasos2.jpg)
-<img src="/assets/images/experimentosIniciales/telefonoVasos2.jpg">
 4. Estira el hilo para que quede tenso entre los dos vasos.
 5. Una persona habla en un vaso mientras otra escucha en el otro vaso. Observen cómo el sonido se transmite a través del hilo.
 
