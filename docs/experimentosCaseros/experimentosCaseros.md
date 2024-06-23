@@ -8,4 +8,4 @@ permalink: /docs/experimentosCaseros
 
 # Experimentos Caseros
 
-En esta pagina te enseñaremos algunos experimentos que podras hacer en casa relacionados con las teleco.
+En esta pagina te enseñaremos algunos experimentos que podras hacer en casa relacionados con las telecomunicaciones.
