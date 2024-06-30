@@ -1,9 +1,8 @@
 ---
 layout: default
 title: ¿Qué es un circuito eléctrico?
-parent: Principios Físicos
+parent: Principios fisicos de las telecomunicaciones
 nav_order: 4
-grand_parent: Conceptos Básicos
 ---
 
 # ¿Qué es un circuito eléctrico?
