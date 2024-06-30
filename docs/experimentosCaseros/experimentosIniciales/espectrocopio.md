@@ -6,20 +6,23 @@ nav_order: 2
 grand_parent: Experimentos Caseros
 ---
 
-# TÍTULO DEL EXPERIMENTO
+# Espectroscopio Casero (Public Lab)
 
 ## Descripción del experimento
-Aquí irá una breve descripción del proyecto.
+En este experimento, construirás un espectrómetro utilizando materiales simples como papel, tijeras y un fragmento de DVD-R. Un espectrómetro es un dispositivo que separa la luz en sus diferentes componentes de longitud de onda, permitiendo el análisis de su espectro.
 
 ### Tema
-
+Espectroscopio 
 ### Duración estimada
-
+30 minutos 
 
 ### Edades Objetivo 
-
+Entre 10 y 16 años
 ### Estándares
-Criterios educativos que se aprenderán al realizar el proyecto
+- Comprender los conceptos básicos de la óptica y la espectroscopía.
+- Aprender sobre la dispersión de la luz y cómo se pueden separar diferentes longitudes de onda.
+- Desarrollar habilidades prácticas en la construcción y montaje de dispositivos científicos.
+- Fomentar la curiosidad y el interés por la ciencia y la experimentación.
 
 ## Preparación
 ### Materiales 
@@ -32,7 +35,8 @@ Criterios educativos que se aprenderán al realizar el proyecto
 - Fotocopia del [Papercraft Spectrometer](https://github.com/publiclab/papercraft-spectrometer/blob/main/foldable-2.0.10.pdf)
 
 ### Recursos de apoyo
-Enlaces a temas relacionados
+-[¿Qué es una onda?]({% link docs/principiosFisicos/ondas.md %})
+-[¿Qué es la luz?]({% link docs/principiosFisicos/luz.md %})
 
 ## Instrucciones
 ### Pasos
