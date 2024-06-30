@@ -1,9 +1,8 @@
 ---
 layout: default
 title: Código Morse
-parent: Principios Físicos
+parent: Principios fisicos de las telecomunicaciones
 nav_order: 5
-grand_parent: Conceptos Básicos
 ---
 
 # Código Morse
