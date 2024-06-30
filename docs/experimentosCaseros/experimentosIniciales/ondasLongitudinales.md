@@ -2,7 +2,7 @@
 layout: default
 title: Ondas Longitudinales con Agua y Vasos de Cristal
 parent: Experimentos Iniciales
-nav_order: 6
+nav_order: 4
 grand_parent: Experimentos Caseros
 ---
 
