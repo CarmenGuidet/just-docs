@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Espectrocopio Casero
+title: Espectrocopio Casero (Public Lab)
 parent: Experimentos Iniciales
 nav_order: 2
 grand_parent: Experimentos Caseros
@@ -23,13 +23,20 @@ Criterios educativos que se aprenderán al realizar el proyecto
 
 ## Preparación
 ### Materiales 
-Materiales necesarios
+- Tijeras
+- Pegamento en barra 
+- Cinta adesiva
+- DVD
+- Boligrafo 
+- Cartulina A4 negra
+- Fotocopia del [Papercraft Spectrometer](https://github.com/publiclab/papercraft-spectrometer/blob/main/foldable-2.0.10.pdf)
 
 ### Recursos de apoyo
 Enlaces a temas relacionados
 
 ## Instrucciones
 ### Pasos
-Los pasos a seguir para elaborar el proyecto.
+1. Pegue la fotocopia de Papercraft Spectrometer en la cartulina negra.
+2. Siga las instrucciones indicadas en la fotocopia.
 
 ### Actividades complementarias (opcional)
