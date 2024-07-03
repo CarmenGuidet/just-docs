@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Conversando en código Morse
-parent: Experimentos Iniciales
+parent: Proyectos Scratch
 nav_order: 1
-grand_parent: Experimentos Caseros
+grand_parent: Proyectos sobre teleco
 ---
 
 # Proyecto en Scratch: Conversión de Mensajes a Código Morse
