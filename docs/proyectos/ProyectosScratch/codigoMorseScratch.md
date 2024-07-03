@@ -2,7 +2,7 @@
 layout: default
 title: Conversando en código Morse
 parent: Proyectos Scratch
-nav_order: 1
+nav_order: 2
 grand_parent: Proyectos sobre teleco
 ---
 
