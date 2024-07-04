@@ -9,24 +9,31 @@ grand_parent: Experimentos Caseros
 # Disco de Newton
 
 ## Descripción del experimento
+
 En este experimento, construiremos un Disco de Newton para demostrar cómo la combinación de los colores del espectro de la luz visible puede crear la apariencia de luz blanca. Esto nos permitirá entender mejor la teoría de los colores y cómo se mezclan para formar otros colores.
 
 ### Tema
+
 - **Tema objetivo:** Teoría de los colores y la mezcla aditiva de colores.
 
 ### Duración estimada
+
 - **Tiempo de duración del experimento:** Aproximadamente 30-45 minutos.
 
 ### Edades Objetivo
+
 - **Edad recomendada:** A partir de 8 años (con supervisión de un adulto para el uso de tijeras y otros materiales).
 
 ### Estándares
+
 - Comprender los conceptos básicos de la mezcla aditiva de colores.
 - Observar cómo la combinación de los colores del espectro de la luz visible puede formar luz blanca.
 - Experimentar con la creación y manipulación de un Disco de Newton.
 
 ## Preparación
+
 ### Materiales
+
 - Cartón o cartulina
 - Compás o un objeto circular para trazar (como un vaso)
 - Lápices de colores o marcadores (rojo, naranja, amarillo, verde, azul, índigo y violeta)
@@ -35,11 +42,14 @@ En este experimento, construiremos un Disco de Newton para demostrar cómo la co
 - Un motor pequeño con batería (opcional) o un lápiz
 
 ### Recursos de apoyo
+
 - [¿Qué es la luz?]({% link docs/principiosFisicos/luz.md %})
 - [¿Qué es una onda?]({% link docs/principiosFisicos/ondas.md %})
 
 ## Instrucciones
+
 ### Pasos
+
 1. **Preparación del disco:**
    - Utiliza el compás o el objeto circular para trazar un círculo en el cartón o la cartulina.
    - Recorta el círculo con las tijeras.
@@ -60,8 +70,7 @@ En este experimento, construiremos un Disco de Newton para demostrar cómo la co
    - Discute por qué los colores se combinan para formar luz blanca. Explica cómo esto demuestra la teoría de la mezcla aditiva de colores.
 
 ### Actividades complementarias (opcional)
+
 - **Variación de colores:** Experimenta con diferentes combinaciones de colores y observa cómo afectan a la apariencia del disco en movimiento.
 - **Investigación histórica:** Investiga la historia del Disco de Newton y su importancia en el desarrollo de la teoría del color.
 - **Aplicaciones prácticas:** Explora otras aplicaciones de la mezcla aditiva de colores en la tecnología moderna, como en pantallas de computadoras y televisores.
-
----
