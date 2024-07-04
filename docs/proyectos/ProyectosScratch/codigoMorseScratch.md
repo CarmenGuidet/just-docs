@@ -18,13 +18,15 @@ Desarrollar un proyecto donde los usuarios puedan ingresar un mensaje y el progr
 - Explicar cómo se enviaban los mensajes en código Morse en el pasado.
 
 ## Materiales y Recursos Necesarios
+
 - Una cuenta en Scratch (https://scratch.mit.edu/)
-- Acceso a un dispositivo con conexión a internet.
+- Un ordenador con conexión a internet.
 - Conocimiento básico del entorno de programación Scratch.
 
 ## Pasos para Desarrollar el Proyecto
 
 ### 1. Crear un Nuevo Proyecto en Scratch
+
 - Ir a la página principal de Scratch.
 - Hacer clic en "Crear" para iniciar un nuevo proyecto.
 
