@@ -9,33 +9,43 @@ nav_order: 1
 # Telefono de vasos con hilos
 
 ## Descripción del experimento
+
 En este experimento, se construirá un teléfono utilizando vasos y hilos para demostrar cómo se transmite el sonido a través de las vibraciones en el material.
 
 ### Tema 
+
 Transmisión del sonido
 
 ### Duración estimada
+
 30 minutos
 
-### Edades Objetivo 
+### Edades Objetivo
+
 De 6 a 10 años
 
 ### Estándares
+
 - Comprender el concepto de vibraciones y cómo estas transportan el sonido.
 
 ## Preparación
-### Materiales 
+
+### Materiales
+
 - 2 vasos de plástico o papel
 - Hilo (aproximadamente 2-3 metros)
 - Tijeras
 
 ### Principios fisicos
+
 - [¿Qué es una onda?]({% link docs/principiosFisicos/ondas.md %})
 
 - [¿Qué es el sonido?]({% link docs/principiosFisicos/sonido.md %})
 
 ## Instrucciones
-### Pasos 
+
+### Pasos
+
 1. Haz un pequeño agujero en el fondo de cada vaso, si el vaso es de cartón, podremos hacer el agujero un lapiz o boligrafo.
 ![Paso 1: Teléfono de vasos de hilo.](/assets/images/experimentosIniciales/telefonoVasos1.jpg)
 2. Pasa el hilo a través del agujero de cada vaso.
