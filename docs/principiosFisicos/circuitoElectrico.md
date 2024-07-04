@@ -13,7 +13,7 @@ Un circuito eléctrico es una ruta cerrada a través de la cual fluye una corrie
 
 ## Componentes de un Circuito Eléctrico
 
-1. **Fuente de Energía**: Proporciona la fuerza electromotriz necesaria para el movimiento de electrones. Ejemplos comunes son las pilas, baterías, y generadores.
+1. **Fuente de Energía**: Proporciona la fuerza electromotriz necesaria para el movimiento de electrones. Ejemplos comunes son las pilas, baterías, y generadores de voltaje.
 2. **Conductores**: Materiales que permiten el flujo de corriente eléctrica, típicamente hechos de metales como el cobre o el aluminio.
 3. **Cargas**: Dispositivos que consumen energía eléctrica para realizar trabajo, como bombillas, motores, y electrodomésticos.
 4. **Interruptores**: Dispositivos que pueden abrir o cerrar el circuito, controlando así el flujo de corriente eléctrica.
@@ -43,8 +43,4 @@ Los diagramas de circuitos son representaciones gráficas de circuitos eléctric
 - **Resistencia**: Representada por un zigzag o un rectángulo.
 - **Interruptor**: Representado por una línea que se abre o cierra.
 - **Conductor**: Representado por una línea recta.
-
-### Recursos de apoyo
-- [Wikipedia: Circuito eléctrico](https://es.wikipedia.org/wiki/Circuito_el%C3%A9ctrico)
-- [Khan Academy: Introduction to circuits](https://www.khanacademy.org/science/electrical-engineering/introduction-to-circuits)
-
+∫
