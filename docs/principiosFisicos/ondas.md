@@ -12,13 +12,17 @@ Una onda es una perturbación que se propaga a través de un medio o en el vací
 ## Tipos de ondas
 
 ### Ondas Mecánicas
+
 Estas ondas requieren un medio material para propagarse, como el aire, el agua o un sólido. Ejemplos de ondas mecánicas incluyen:
+
 - **Ondas sonoras:** Vibraciones que se propagan a través del aire u otros medios.
 - **Ondas sísmicas:** Vibraciones que se propagan a través de la Tierra, comúnmente asociadas con terremotos.
 - **Ondas en una cuerda:** Vibraciones que se propagan a lo largo de una cuerda tensa.
 
 ### Ondas Electromagnéticas
+
 Estas ondas no requieren un medio material para propagarse y pueden viajar a través del vacío. Ejemplos de ondas electromagnéticas incluyen:
+
 - **Luz visible:** Parte del espectro electromagnético que es visible al ojo humano.
 - **Rayos X:** Utilizados en medicina para tomar imágenes del interior del cuerpo.
 - **Ondas de radio:** Utilizadas para transmitir señales de radio y televisión.
