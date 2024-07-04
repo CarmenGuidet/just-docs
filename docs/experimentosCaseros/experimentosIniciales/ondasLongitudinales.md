@@ -9,32 +9,42 @@ grand_parent: Experimentos Caseros
 # Ondas Longitudinales con Agua y Vasos de Cristal
 
 ## Descripción del experimento
+
 En este experimento, utilizaremos agua y dos vasos de cristal para visualizar y entender cómo se comportan las ondas longitudinales. Las ondas longitudinales son aquellas en las que la vibración del medio es paralela a la dirección de propagación de la onda. Este tipo de ondas es característico del sonido.
 
 ### Tema
+
 Ondas longitudinales y su propagación en un medio líquido.
 
 ### Duración estimada
+
 Aproximadamente 10-15 minutos.
 
 ### Edades Objetivo
+
 A partir de 8 años (con supervisión de un adulto para el manejo de los vasos de cristal).
 
 ### Estándares
+
 - Comprender los conceptos básicos de ondas longitudinales.
 - Observar cómo las perturbaciones en un medio líquido crean ondas longitudinales.
 - Experimentar con diferentes intensidades de perturbación para ver su efecto en la onda.
 
 ## Preparación
+
 ### Materiales
+
 - Agua
 - Dos vasos de cristal
 
 ### Recursos de apoyo
+
 - [¿Qué es una onda?]({% link docs/principiosFisicos/ondas.md %})
 
 ## Instrucciones
+
 ### Pasos
+
 1. **Preparación de los vasos:**
    - Llena uno de los vasos de cristal con agua hasta aproximadamente tres cuartas partes de su capacidad.
 
@@ -60,6 +70,9 @@ A partir de 8 años (con supervisión de un adulto para el manejo de los vasos d
    - Prueba a llenar los vasos con diferentes niveles de agua y repite el experimento para observar cómo la cantidad de agua afecta a la propagación de las ondas.
 
 ### Actividades complementarias (opcional)
+
 - **Exploración de resonancia:** Encuentra la frecuencia a la cual los vasos de cristal resuenan golpeándolos suavemente y observando la respuesta de las ondas en el agua.
+
 - **Análisis de ondas:** Dibuja o graba las ondas para analizar la longitud de onda y la frecuencia.
+
 - **Comparación con ondas transversales:** Compara las ondas longitudinales creadas con las ondas transversales (como las creadas en una cuerda) para entender las diferencias entre ambos tipos de ondas.
