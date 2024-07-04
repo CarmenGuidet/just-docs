@@ -7,3 +7,7 @@ url: https://just-the-docs.github.io
 aux_links:
   Repository: https://github.com/CarmenGuidet/CarmenGuidet.github.io
 
+compress_html:
+  blanklines: true
+
+latex: katex 
