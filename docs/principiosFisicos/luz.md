@@ -13,12 +13,15 @@ La luz es una forma de radiación electromagnética visible para el ojo humano. 
 ## Propiedades de la luz
 
 ### Longitud de Onda (λ)
+
 La longitud de onda es la distancia entre dos crestas consecutivas de la onda. La longitud de onda de la luz visible oscila entre aproximadamente 400 nm (violeta) y 700 nm (rojo).
 
 ### Frecuencia (f)
+
 La frecuencia es el número de ondas que pasan por un punto en un segundo. Está inversamente relacionada con la longitud de onda: a mayor longitud de onda, menor frecuencia, y viceversa.
 
 ### Velocidad de la Luz (c)
+
 La velocidad de la luz en el vacío es aproximadamente $299.792.458 \, \text{m/s}$. En otros medios, como el agua o el vidrio, la velocidad de la luz es menor debido a la refracción.
 
 ### Energía
@@ -26,11 +29,12 @@ La energía de un fotón de luz está relacionada con su frecuencia mediante la 
 
 $$ E = h \cdot f $$
 
-donde $E$ es la energía, $h$ es la constante de Planck $6.626 \times 10^{-34}\text{J} \cdot \text{s}$, y $f$ es la frecuencia de la luz.
+donde E es la energía, $$ h $$ es la constante de Planck $$6.626 \times 10^{-34}\text{J} \cdot \text{s}$$, y $f$ es la frecuencia de la luz.
 
 ## Espectro Electromagnético
 
 La luz visible es solo una pequeña parte del espectro electromagnético, que incluye otros tipos de radiación como:
+
 - **Rayos Gamma:** Longitudes de onda muy cortas y energías muy altas.
 - **Rayos X:** Utilizados en imágenes médicas.
 - **Ultravioleta (UV):** Causa quemaduras solares, se usa en lámparas germicidas.
