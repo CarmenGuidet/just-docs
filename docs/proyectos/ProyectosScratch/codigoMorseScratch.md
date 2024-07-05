@@ -31,29 +31,39 @@ Desarrollar un proyecto donde los usuarios puedan ingresar un mensaje y el progr
 - Hacer clic en "Crear" para iniciar un nuevo proyecto.
 
 ### 2. Diseñar la Interfaz del Usuario
+
 - **Escenario**: Crear un fondo que represente la temática histórica del código Morse (opcional).
 - **Personaje**: Elegir o diseñar un sprite que actúe como el presentador del proyecto.
 
 ### 3. Agregar un Campo de Entrada para el Mensaje de Usuario
+
 - Utilizar el bloque "Preguntar [¿Cuál es tu mensaje?] y esperar" para solicitar el mensaje del usuario.
-- Guardar la respuesta en una variable, por ejemplo, `mensaje`.
+![Agregar un Campo de Entrada para el Mensaje de Usuario](/assets/images/proyectosScratch/codigoMorse/CodigoMorseScratch1.png)
 
 ### 4. Crear la Lógica de Conversión a Código Morse
+
 - Crear una lista (array) que contenga las letras del alfabeto y sus correspondientes representaciones en código Morse.
+![Listas de alfabeto y Morse](/assets/images/proyectosScratch/codigoMorse/CodigoMorseScratch2.png)
+
 - Crear una función que tome cada letra del mensaje ingresado y la convierta a su equivalente en código Morse.
-- Almacenar el resultado en una variable, por ejemplo, `mensajeMorse`.
+![Funcion de codificar](/assets/images/proyectosScratch/codigoMorse/CodigoMorseScratch3.png)
 
 ### 5. Mostrar el Mensaje en Código Morse
+
 - Utilizar el bloque "decir [mensajeMorse] por [2] segundos" para mostrar el mensaje convertido en la pantalla.
+![Mostrar mensaje](/assets/images/proyectosScratch/codigoMorse/CodigoMorseScratch4.png)
 
 ### 6. (Opcional) Agregar Sonidos para las Señales Morse
+
 - Incluir sonidos para representar los puntos (.) y guiones (-) del código Morse.
 - Reproducir los sonidos correspondientes a medida que se muestra el mensaje.
 
 ### 7. Explicación Histórica del Código Morse
+
 - Agregar un sprite o un fondo que explique brevemente la historia y el uso del código Morse en el pasado.
 - Utilizar bloques de texto y gráficos para enriquecer la explicación.
 
 ### 8. Probar y Refinar el Proyecto
+
 - Probar el proyecto con diferentes mensajes para asegurar que la conversión es correcta.
 - Ajustar cualquier error y mejorar la presentación visual del proyecto.
