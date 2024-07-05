@@ -73,6 +73,6 @@ Para enviar "SOS" en código Morse:
 - S: ···
 - O: −−−
 - S: ···
+
+
 El mensaje se envía como: ··· −−− ···
-∫
----
