@@ -20,7 +20,7 @@ Vamos a crear un proyecto en Scratch que cuente la historia de las telecomunicac
 ## Materiales Necesarios
 
 - Una cuenta en Scratch (https://scratch.mit.edu/)
-- Una computadora con acceso a internet.
+- Un ordenador con acceso a internet.
 
 ## Pasos para Desarrollar el Proyecto
 
