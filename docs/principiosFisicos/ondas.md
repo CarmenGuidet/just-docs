@@ -30,25 +30,29 @@ Estas ondas no requieren un medio material para propagarse y pueden viajar a tra
 ## Características de las ondas
 
 ### Longitud de Onda (λ)
+
 La distancia entre dos puntos consecutivos que están en fase, como la distancia entre dos crestas o dos valles consecutivos.
 
 ### Frecuencia (f)
+
 El número de ciclos de la onda que pasan por un punto dado en un segundo. Se mide en hertzios (Hz).
 
 ### Amplitud
+
 La altura máxima de la onda respecto a su posición de equilibrio. Indica la energía de la onda; ondas de mayor amplitud transportan más energía.
 
 ### Velocidad de Propagación (v)
+
 La velocidad a la que la onda se desplaza a través del medio. La relación entre la velocidad de propagación, la frecuencia y la longitud de onda se expresa con la fórmula:
 
-\[ v = f \cdot \lambda \]
+$$ v = f λ $$
 
 ## Ejemplos de ondas en la vida cotidiana
+
 - **Sonido:** Cuando hablamos, nuestras cuerdas vocales vibran creando ondas sonoras que se propagan a través del aire y llegan a los oídos de otras personas.
 - **Luz:** La luz del sol viaja a través del vacío del espacio y nos llega, permitiéndonos ver.
 - **Ondas en el agua:** Cuando tiramos una piedra en un estanque, se crean ondas que se propagan por la superficie del agua.
 
 Las ondas son fundamentales en la física y en muchas aplicaciones tecnológicas, desde la comunicación hasta la medicina.
-
 
 [![Ondas y clasificación](https://img.youtube.com/vi/Z7fV4ZfoKeY/mqdefault.jpg)](https://www.youtube.com/watch?v=Z7fV4ZfoKeY)
