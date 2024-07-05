@@ -9,9 +9,11 @@ grand_parent: Proyectos sobre teleco
 # Proyecto en Scratch: Conversión de Mensajes a Código Morse
 
 ## Descripción del Proyecto
+
 Desarrollar un proyecto donde los usuarios puedan ingresar un mensaje y el programa lo convierta en código Morse, mostrando cómo se enviaban los mensajes en el pasado.
 
 ## Objetivos del Proyecto
+
 - Permitir a los usuarios ingresar un mensaje de texto.
 - Convertir el mensaje ingresado a código Morse.
 - Mostrar el mensaje en código Morse en pantalla.
