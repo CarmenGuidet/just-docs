@@ -25,11 +25,12 @@ La frecuencia es el número de ondas que pasan por un punto en un segundo. Está
 La velocidad de la luz en el vacío es aproximadamente $299.792.458 \, \text{m/s}$. En otros medios, como el agua o el vidrio, la velocidad de la luz es menor debido a la refracción.
 
 ### Energía
+
 La energía de un fotón de luz está relacionada con su frecuencia mediante la ecuación:
 
-$$ E = h \cdot f $$
+$$ E = h f $$
 
-donde E es la energía, $$ h $$ es la constante de Planck $$6.626 \times 10^{-34}\text{J} \cdot \text{s}$$, y $f$ es la frecuencia de la luz.
+donde E es la energía, $$ h $$ es la constante de Planck $$ 6.626 \times 10^{-34}\text{J} \cdot \text{s} $$, y $f$ es la frecuencia de la luz.
 
 ## Espectro Electromagnético
 
@@ -47,9 +48,11 @@ La luz visible es solo una pequeña parte del espectro electromagnético, que in
 ## Comportamiento de la luz
 
 ### Reflexión
+
 La luz se refleja al chocar con una superficie. La ley de la reflexión establece que el ángulo de incidencia es igual al ángulo de reflexión.
 
 ### Refracción
+
 La luz cambia de dirección al pasar de un medio a otro debido a la variación en su velocidad. Este fenómeno se describe por la ley de Snell.
 
 ### Dispersión
