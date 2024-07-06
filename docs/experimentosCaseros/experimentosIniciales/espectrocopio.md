@@ -42,12 +42,15 @@ Entre 10 y 16 años
 - Fotocopia del [Papercraft Spectrometer](https://github.com/publiclab/papercraft-spectrometer/blob/main/foldable-2.0.10.pdf)
 
 ### Recursos de apoyo
+
 -[¿Qué es una onda?]({% link docs/principiosFisicos/ondas.md %})
 -[¿Qué es la luz?]({% link docs/principiosFisicos/luz.md %})
 
 ## Instrucciones
+
 ### Pasos
+
 1. Pegue la fotocopia de Papercraft Spectrometer en la cartulina negra.
-2. Siga las instrucciones indicadas en la fotocopia. 
+2. Siga las instrucciones indicadas en la fotocopia.
 
 ### Actividades complementarias (opcional)
