@@ -70,5 +70,3 @@ Este experimento enseña cómo utilizar el comando `traceroute` (o `tracert` en 
 - **Traceroute a diferentes sitios web:** Repite el comando `traceroute` con diferentes sitios web (por ejemplo, `traceroute www.yahoo.com`) para comparar las rutas.
 - **Traceroute a una dirección IP:** Intenta hacer `traceroute` a una dirección IP específica (por ejemplo, `traceroute 8.8.8.8` que es un servidor DNS de Google).
 - **Exploración del comando `traceroute`:** Investiga otras opciones del comando `traceroute`, como ajustar el número máximo de saltos (`traceroute -m 20 www.google.com` en macOS/Linux).
-
----
