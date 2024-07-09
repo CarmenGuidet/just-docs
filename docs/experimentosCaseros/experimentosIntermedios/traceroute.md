@@ -32,7 +32,6 @@ Este experimento enseña cómo utilizar el comando `traceroute` (o `tracert` en 
 
 ### Recursos de apoyo
 - [Fundamentos de redes informáticas]({% link docs/principiosFisicos/redes.md %})
-- [¿Qué es una dirección IP?]({% link docs/principiosFisicos/redesInformaticas.md %})
 
 ## Instrucciones
 ### Pasos
