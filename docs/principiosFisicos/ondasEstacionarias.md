@@ -34,21 +34,3 @@ Las ondas estacionarias son fundamentales en diversos campos, tales como:
 
 ## Recursos de apoyo
 - [¿Qué es una onda?]({% link docs/principiosFisicos/ondas.md %})
-
-## Ejemplo Práctico: Figuras de Chladni
-Una forma visual de observar ondas estacionarias es a través de las Figuras de Chladni. En este experimento, una placa metálica cubierta con arena se hace vibrar a diferentes frecuencias, creando patrones visibles de nodos y antinodos en la arena.
-
-### Materiales
-- Placa metálica
-- Arena fina o sal
-- Altavoz
-- Generador de tonos o aplicación de tonos en un teléfono móvil
-- Sujetador para la placa
-
-### Pasos
-1. Coloca la placa metálica sobre el sujetador.
-2. Espolvorea una capa fina de arena sobre la placa.
-3. Usa el generador de tonos para aplicar diferentes frecuencias de vibración a la placa.
-4. Observa cómo la arena se acumula en los nodos y forma patrones de Chladni.
-
-Estos patrones permiten visualizar las ondas estacionarias y entender mejor cómo se forman y se comportan.
