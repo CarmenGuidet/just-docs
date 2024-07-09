@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Ondas Estacionarias
-parent: Principios Físicos
+parent: Principios fisicos de las telecomunicaciones
 nav_order: 6
 ---
 
