@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Fundamentos de Redes Informáticas
-parent: Principios Físicos
+parent: Principios fisicos de las telecomunicaciones
 nav_order: 7
 ---
 
