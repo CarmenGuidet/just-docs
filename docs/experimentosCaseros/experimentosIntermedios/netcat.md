@@ -33,7 +33,6 @@ Este experimento enseña cómo establecer una comunicación entre dos ordenadore
 ### Recursos de apoyo
 - [Fundamentos de redes informáticas](docs/principiosFisicos/redes.md)
 - [Instalación y uso de Netcat](https://www.tecmint.com/netcat-nc-command-examples/)
-- [Comandos de línea de comandos básicos](docs/principiosFisicos/lineaDeComandos.md)
 
 ## Instrucciones
 ### Pasos
