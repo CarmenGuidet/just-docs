@@ -26,18 +26,22 @@ Este experimento permite a los usuarios identificar la dirección IP de su orden
 - Reconocer la importancia de la dirección IP en la comunicación de redes.
 
 ## Preparación
+
 ### Materiales
+
 - Un ordenador con acceso a la red
 - Sistema operativo Windows, macOS o Linux
 
 ### Recursos de apoyo
-- [¿Qué es una dirección IP?]({% link docs/principiosFisicos/redesInformaticas.md %})
+
 - [Fundamentos de redes informáticas]({% link docs/principiosFisicos/redes.md %})
 
 ## Instrucciones
 ### Pasos
 #### En Windows:
+
 1. **Abrir el Símbolo del sistema:**
+
    - Presiona `Win + R` para abrir el cuadro de diálogo "Ejecutar".
    - Escribe `cmd` y presiona `Enter` para abrir el Símbolo del sistema.
 
@@ -46,7 +50,9 @@ Este experimento permite a los usuarios identificar la dirección IP de su orden
    - Busca la sección "Adaptador de red inalámbrica" o "Adaptador Ethernet". La dirección IP se mostrará junto a "Dirección IPv4".
 
 #### En macOS:
+
 1. **Abrir la Terminal:**
+
    - Ve a `Aplicaciones` > `Utilidades` > `Terminal`.
 
 2. **Ejecutar el comando para conocer la IP:**
@@ -54,7 +60,9 @@ Este experimento permite a los usuarios identificar la dirección IP de su orden
    - Busca la dirección IP en las líneas que contienen `inet`.
 
 #### En Linux:
+
 1. **Abrir la Terminal:**
+
    - Dependiendo de la distribución, abre la Terminal desde el menú de aplicaciones o usando `Ctrl + Alt + T`.
 
 2. **Ejecutar el comando para conocer la IP:**
