@@ -34,7 +34,6 @@ Las ondas estacionarias son fundamentales en diversos campos, tales como:
 
 ## Recursos de apoyo
 - [¿Qué es una onda?]({% link docs/principiosFisicos/ondas.md %})
-- [Ondas transversales y longitudinales]({% link docs/principiosFisicos/ondasTransversalesLongitudinales.md %})
 
 ## Ejemplo Práctico: Figuras de Chladni
 Una forma visual de observar ondas estacionarias es a través de las Figuras de Chladni. En este experimento, una placa metálica cubierta con arena se hace vibrar a diferentes frecuencias, creando patrones visibles de nodos y antinodos en la arena.
