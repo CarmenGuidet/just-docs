@@ -5,7 +5,6 @@ parent: Principios fisicos de las telecomunicaciones
 nav_order: 3
 ---
 
-
 # ¿Qué es la luz?
 
 La luz es una forma de radiación electromagnética visible para el ojo humano. Es una onda que se comporta tanto como una partícula (fotón) y como una [onda]({% link docs/principiosFisicos/ondas.md %}) , lo que se conoce como dualidad onda-partícula. La luz permite la visión y es esencial para la vida en la Tierra.
