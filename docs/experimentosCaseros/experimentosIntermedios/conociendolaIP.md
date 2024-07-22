@@ -59,6 +59,8 @@ Este experimento permite a los usuarios identificar la dirección IP de su orden
    - En la Terminal, escribe `ifconfig | grep inet` y presiona `Enter`.
    - Busca la dirección IP en las líneas que contienen `inet`.
 
+![IP www.google.es](/assets/images/experimentosIntermedios/ip_MACOS.png)
+
 #### En Linux:
 
 1. **Abrir la Terminal:**
