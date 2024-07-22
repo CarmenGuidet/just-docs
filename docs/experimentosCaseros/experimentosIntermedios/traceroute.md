@@ -65,6 +65,7 @@ Este experimento enseña cómo utilizar el comando `traceroute` (o `tracert` en 
 - **Tiempo de respuesta:** El tiempo que tarda un paquete en llegar al router y volver.
 - **Asteriscos:** Indican que no se recibió respuesta de ese router, lo que puede ser debido a configuraciones de red que bloquean la respuesta.
 
+
 ### Actividades complementarias (opcional)
 - **Traceroute a diferentes sitios web:** Repite el comando `traceroute` con diferentes sitios web (por ejemplo, `traceroute www.yahoo.com`) para comparar las rutas.
 - **Traceroute a una dirección IP:** Intenta hacer `traceroute` a una dirección IP específica (por ejemplo, `traceroute 8.8.8.8` que es un servidor DNS de Google).
