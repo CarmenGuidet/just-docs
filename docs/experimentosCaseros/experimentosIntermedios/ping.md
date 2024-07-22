@@ -13,12 +13,15 @@ grand_parent: Experimentos Caseros
 Este experimento enseña cómo utilizar el comando `ping` para verificar la conectividad a Internet y medir el tiempo de respuesta entre tu ordenador y un sitio web.
 
 ### Tema
+
 - **Tema objetivo:** Redes informáticas y diagnóstico de conectividad.
 
 ### Duración estimada
+
 - **Tiempo de duración del experimento:** Aproximadamente 10 minutos.
 
 ### Edades Objetivo
+
 - **Edad recomendada:** A partir de 12 años (con supervisión de un adulto).
 
 ### Estándares
@@ -39,6 +42,7 @@ Este experimento enseña cómo utilizar el comando `ping` para verificar la cone
 - [Fundamentos de redes informáticas]({% link docs/principiosFisicos/redes.md %})
 
 ## Instrucciones
+
 ### Pasos
 
 #### En Windows:
@@ -60,6 +64,7 @@ Este experimento enseña cómo utilizar el comando `ping` para verificar la cone
    - En la Terminal, escribe `ping www.google.com` y presiona `Enter`.
    - Observa los resultados que muestran el tiempo de respuesta en milisegundos (ms).
 
+![Ping www.google.es](/assets/images/experimentosIntermedios/ping_MACOS.png)
 #### En Linux:
 
 1. **Abrir la Terminal:**
@@ -79,4 +84,3 @@ Este experimento enseña cómo utilizar el comando `ping` para verificar la cone
 - **Ping a diferentes sitios web:** Repite el comando `ping` con diferentes sitios web (por ejemplo, `ping www.yahoo.com`) para comparar los tiempos de respuesta.
 - **Ping a una dirección IP:** Intenta hacer `ping` a una dirección IP específica (por ejemplo, `ping 8.8.8.8` que es un servidor DNS de Google).
 - **Exploración del comando `ping`:** Investiga otras opciones del comando `ping`, como limitar el número de paquetes enviados (`ping -c 4 www.google.com` en macOS/Linux) o ajustar el tamaño del paquete.
-
