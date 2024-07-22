@@ -13,7 +13,7 @@ grand_parent: Experimentos Caseros
 En este experimento, construirás un espectrómetro utilizando materiales simples como papel, tijeras y un fragmento de DVD-R. Un espectrómetro es un dispositivo que separa la luz en sus diferentes componentes de longitud de onda, permitiendo el análisis de su espectro.
 
 ### Tema
-Espectroscopio 
+Espectroscopio .
 
 ### Duración estimada
 
