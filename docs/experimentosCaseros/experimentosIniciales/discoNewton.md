@@ -36,10 +36,13 @@ En este experimento, construiremos un Disco de Newton para demostrar cómo la co
 
 - Cartón o cartulina
 - Compás o un objeto circular para trazar (como un vaso)
-- Lápices de colores o marcadores (rojo, naranja, amarillo, verde, azul, índigo y violeta)
+- Transportador de angulos
+- Lápices de colores o marcadores (rojo, naranja, amarillo, verde, azul y violeta)
 - Tijeras
 - Pegamento
 - Un motor pequeño con batería (opcional) o un lápiz
+
+![Paso 1: Teléfono de vasos de hilo.](/assets/images/experimentosIniciales/discoNewton1.jpeg)
 
 ### Recursos de apoyo
 
@@ -53,11 +56,12 @@ En este experimento, construiremos un Disco de Newton para demostrar cómo la co
 1. **Preparación del disco:**
    - Utiliza el compás o el objeto circular para trazar un círculo en el cartón o la cartulina.
    - Recorta el círculo con las tijeras.
+   ![Paso 1: Teléfono de vasos de hilo.](/assets/images/experimentosIniciales/discoNewton2.jpg)
 
 2. **División del círculo:**
-   - Divide el círculo en siete secciones iguales, utilizando un lápiz y una regla si es necesario.
-   - Colorea cada sección con un color diferente del espectro visible: rojo, naranja, amarillo, verde, azul, índigo y violeta.
-
+   - Divide el círculo en seis secciones iguales, utilizando un lápiz y una regla si es necesario.
+   - Colorea cada sección con un color diferente del espectro visible: rojo, naranja, amarillo, verde, azul y violeta.
+   ![Paso 1: Teléfono de vasos de hilo.](/assets/images/experimentosIniciales/discoNewton2.jpg)
 3. **Montaje del disco:**
    - Si estás usando un motor pequeño, pega el disco al eje del motor.
    - Si no tienes un motor, haz un pequeño agujero en el centro del disco y pasa un lápiz a través del agujero, asegurándote de que el disco pueda girar libremente.
