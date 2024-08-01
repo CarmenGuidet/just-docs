@@ -73,4 +73,3 @@ Este experimento enseña cómo establecer una comunicación entre dos ordenadore
 - **Transferencia de archivos:** Usa `netcat` para transferir archivos entre los ordenadores. En el emisor, usa `nc [IP_del_receptor] 12345 < archivo.txt` y en el receptor, usa `nc -l -p 12345 > archivo.txt`.
 - **Explorar otras opciones de `netcat`:** Investiga cómo usar `netcat` para escanear puertos (`nc -z -v [IP] [puerto_inicial]-[puerto_final]`).
 - **Simular un servidor y cliente de chat:** Configura `netcat` para simular una comunicación bidireccional entre dos ordenadores.
-
